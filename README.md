@@ -13,7 +13,7 @@
 
 ### The repository represents the backend for a cat adoption center application, which is managed by the following microservices:
 
-1. **User service:** For user management.
+1. **User Service:** For user management.
 2. **Cat Service:** For cat management.
 3. **Notifications Service:** Sends notifications to users.
 4. **RabbitMQ Message Broker:** For asynchronous communication between the microservices.
